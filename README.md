@@ -11,4 +11,5 @@ I'm Kittima, a **fresh Business graduate** who found a passion for **data analyt
 🔍 **Current Focus**: Building a **standout portfolio** with real-world projects  
 
 ## 📚 Projects
-Welcome to my portfolio, where I showcase my 
+Welcome to my portfolio, where I showcase my [Projects](#Portfolio)
+
