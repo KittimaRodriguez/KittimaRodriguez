@@ -21,3 +21,5 @@ Welcome to my portfolio, where I showcase my [Projects](https://github.com/Kitti
 - **Databases:** Google BigQuery, MySQL  
 - **Visualization:** Tableau  
 
+## 👋🏻 Connect with Me
+- [Linkedin](https://www.linkedin.com/in/kittima-rodriguez/)
