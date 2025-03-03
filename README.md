@@ -16,8 +16,8 @@ Welcome to my portfolio, where I showcase my [Projects](https://github.com/Kitti
 ## 🎓 Certifications  
 📜 **[Google Data Analytics Professional Certificate]()**  
 
-## 🛠️ Tools
-**Language**: SQL, R
-**Database**: Google BigQuery, MySQL
-**Visualization**: Tableau
+## 🛠️ Skills  
+- **Languages:** SQL, R  
+- **Databases:** Google BigQuery, MySQL  
+- **Visualization:** Tableau  
 
