@@ -11,7 +11,7 @@ I'm Kittima, a **fresh Business graduate** who found a passion for **data analyt
 🔍 **Current Focus**: Building a **standout portfolio** with real-world projects  
 
 ## 📚 Projects
-Welcome to my portfolio, where I showcase my **[Projects](https://github.com/KittimaRodriguez/Portfolio/blob/main/README.md)**
+Welcome to my **Portfolio**, where I showcase my **[Projects](https://github.com/KittimaRodriguez/Portfolio/blob/main/README.md)**
 
 ## 🎓 Certifications  
 📜 **[Google Data Analytics Professional Certificate]()**  
